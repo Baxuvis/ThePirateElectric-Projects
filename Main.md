@@ -19,4 +19,4 @@ Media engineering page
        <h1> HyperLink Below </h1>
    <a href="https://ThePirateElectric.com">
           The Pirate Electric </a>
-          <hr align="left" width="200px"/>
+          <hr align="left" width="300px"/>
